@@ -90,9 +90,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Telegram', url='https://t.me/muhammed_salman'),
-        InlineKeyboardButton('Instagram ', url ='https://www.instagram.com/__muhammed_salman/')
+        InlineKeyboardButton('Instagram', url ='https://www.instagram.com/__muhammed_salman/')
     ],[
-        InlineKeyboardButton('Bot Admin ', url='https://t.me/muhammed_salman')
+        InlineKeyboardButton('YouTube', url='https://youtube.com/c/KUTTUSANMEDIA')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
